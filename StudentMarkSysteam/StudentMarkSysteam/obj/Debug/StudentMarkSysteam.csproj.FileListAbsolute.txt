@@ -1,0 +1,48 @@
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe.config
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.pdb
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.AssemblyReference.cache
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Properties.Resources.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.GenerateResource.cache
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.CoreCompileInputs.cache
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.exe
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.pdb
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Login.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.AdminPage.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.UserPage.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Student.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Course.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Teacher.resources
+D:\New folder (2)\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Grade.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe.config
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.pdb
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.AdminPage.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Course.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Login.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Grade.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Student.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Teacher.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.UserPage.resources
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.exe
+C:\Users\Asus\OneDrive\Máy tính\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.pdb
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe.config
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.exe
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\bin\Debug\StudentMarkSysteam.pdb
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.AdminPage.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Course.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Login.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Grade.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Student.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.Teacher.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.UserPage.resources
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.exe
+C:\Users\Asus\OneDrive\Máy tính\môn database\StudentMarkSysteam\StudentMarkSysteam\obj\Debug\StudentMarkSysteam.pdb
